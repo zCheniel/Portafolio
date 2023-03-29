@@ -1,0 +1,24 @@
+header #presentacion {
+  margin-bottom: 30px;
+  background-color: #3b8eed;
+  padding: 10px;
+  border-radius: 10px;
+}
+header div {
+  margin: 10px;
+}
+header p {
+  text-align: justify;
+}
+header img {
+  border-radius: 10px;
+}
+
+section {
+  margin: 50px;
+}
+
+#primeraS {
+  background-color: #3b8eed;
+  padding: 10px;
+}/*# sourceMappingURL=styles.css.map */
