@@ -17,7 +17,16 @@ header{
 
     img{
         border-radius: 10px;
+        width: 100%;
     }
+
+    #imagen{
+        display: grid;
+        place-content: center;
+        
+
+    }
+
 
 }
 

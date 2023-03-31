@@ -12,6 +12,11 @@ header p {
 }
 header img {
   border-radius: 10px;
+  width: 100%;
+}
+header #imagen {
+  display: grid;
+  place-content: center;
 }
 
 section {
